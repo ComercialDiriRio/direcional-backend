@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 pandas
-pydantic
+numpy
+fpdf2
+python-multipart
